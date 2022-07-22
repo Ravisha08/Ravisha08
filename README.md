@@ -1,5 +1,5 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-👋 Heyyaaa! I'm RAVISHA, student at Chandigarh University.I'm currently pursuing Bachelor in Computer Applications. Other than technical work , I love to socialize , dance and read about random stuff in my free time.
+👋 Heyyaaa! I'm RAVISHA, student at Chandigarh University. I'm currently pursuing Bachelor in Computer Applications. Other than technical work , I love to socialize , dance and read about random stuff in my free time.
 <br>
 <br>
 
